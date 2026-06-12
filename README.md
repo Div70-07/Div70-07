@@ -48,7 +48,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [Discovery OS – AI Entertainment Assistant](https://github.com/Div70-07/REPO_LINK)
+### 🧠 [Discovery OS – AI Entertainment Assistant](https://github.com/Div70-07/AI-Entertainment-Assistant)
 **Problem:** Content discovery across entertainment platforms is fragmented and lacks personalization.
 **Solution:** An AI-powered discovery platform that understands user intent and behavior to recommend content intelligently.
 **Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Gemini API` `YouTube Data API` `JWT`
@@ -62,7 +62,7 @@
 
 ---
 
-### 🎥 [Web Live Streaming Platform (Google Meet Clone)](https://github.com/Div70-07/REPO_LINK)
+### 🎥 [Web Live Streaming Platform (Google Meet Clone)](https://github.com/Div70-07/web_live_streaming)
 **Problem:** Need for a lightweight, low-latency video communication tool.
 **Solution:** A real-time video streaming platform with responsive UI and seamless connection handling.
 **Tech Stack:** `React.js` `ZEGOCLOUD SDK` `Vercel`
@@ -75,7 +75,7 @@
 
 ---
 
-### 🪟 [Windows 11 Web Interface Clone](https://github.com/Div70-07/REPO_LINK)
+### 🪟 [Windows 11 Web Interface Clone]
 **Problem:** Practice building pixel-accurate, complex UIs from scratch.
 **Solution:** A responsive recreation of the Windows 11 desktop interface using pure HTML & CSS.
 **Tech Stack:** `HTML5` `CSS3`
@@ -139,6 +139,13 @@ B.Sc. Computer Science — 2021 – 2024
 
 *"Build in silence. Let the product speak."*
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Div70-07/Div70-07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=100&section=footer" width="100%"/>
 
 </div>
+
